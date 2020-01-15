@@ -1,0 +1,93 @@
+#cabecera{
+	text-align: center;
+	background-color: #373737;
+	border-bottom: black 4px solid;
+	margin-bottom: 20px;
+	padding:20px;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: "Lucida Console";
+}
+
+#primerRotulo{
+	font-family: "Lucida Console";
+	text-align: center;
+	color: black;
+	border: 2px #CB0707 solid;
+}
+
+.intro  p{
+	font-family: "Bookman Old Style";
+	font-weight: 400;
+	color:black;
+	background-color: #FAFAFA;
+	padding: 5px;
+	border-left: black solid 2px;
+}
+
+.indice { 
+	float: left;
+	color:white;
+	background-color: #DD5A5A;
+	font-family: "Impact"
+	padding: 5px;
+	border: 4px black solid;
+	margin: 20px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 20px;
+}
+
+.indice h3{
+	color: black;
+}
+.indice li {
+	
+	padding-bottom: 20px;
+}
+img {
+		border-radius: 90%;
+}
+ .imagen{
+ 	float: right;
+ 	opacity: 0.8;
+
+ }
+
+ #resumenes{
+ 	background-color: grey;
+ 	padding: 20px;
+ 	color: white; 
+ 	border: 2px black solid;
+
+ }
+
+ #resumenes h3 {
+ 	color:black;
+ 	font-size: 30px;
+ 	border-bottom: 2px black solid;
+ }
+
+ #resumenes p{
+ 	font-weight: bold;
+ }
+
+ #primerRotulo ~ p{ 
+ 	font-family: "Bookman Old Style";
+	font-weight: 400;
+	color:black;
+	background-color: #FAFAFA;
+	padding: 5px;
+	border-left: black solid 2px;  }
+
+  #primerRotulo ~ h3 {
+  	font-family: "Lucida Console";
+	text-align: center;
+	color: #CB0707;
+	border: 2px solid #CB0707;
+	padding: 2px;
+	margin-top: 100px;
+  }
+
+
